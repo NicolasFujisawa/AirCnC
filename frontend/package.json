@@ -33,6 +33,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "4.40.2"
+    "webpack": "5.94.0"
   }
 }
